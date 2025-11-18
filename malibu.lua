@@ -1,5 +1,5 @@
 return {
-    ["Poop"] = "https://raw.githubusercontent.com/0riginalWarrior/Animations/refs/heads/main/poop.lua",
+    ["Poopie"] = "https://raw.githubusercontent.com/0riginalWarrior/Animations/refs/heads/main/poop.lua",
     ["Sharp 6"] = "https://raw.githubusercontent.com/0riginalWarrior/Animations/refs/heads/main/SHARP%206.lua",
     ["Sharp 11"] = "https://raw.githubusercontent.com/0riginalWarrior/Animations/refs/heads/main/SHARP%2011.lua",
     ["Split jump"] = "https://raw.githubusercontent.com/0riginalWarrior/Animations/refs/heads/main/split%20jump.lua",
