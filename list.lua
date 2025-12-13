@@ -1579,5 +1579,7 @@ return {
     ["Split jump"] = "https://raw.githubusercontent.com/Rootleak/Animations/refs/heads/main/split%20jump.lua",
     ["Anim2"] = "https://raw.githubusercontent.com/Rootleak/Animations/refs/heads/main/anim2.lua",
     ["Flip"] = "https://raw.githubusercontent.com/Rootleak/Animations/refs/heads/main/flip.lua",
+    ["Lil nas X panini"] = "https://raw.githubusercontent.com/Rootleak/Animations/refs/heads/main/Lil%20nas%20x%20panini.lua",
+    ["Travis R15"] = "https://raw.githubusercontent.com/Rootleak/Animations/refs/heads/main/Travis%20r15.lua",
 
 }
