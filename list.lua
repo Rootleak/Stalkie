@@ -1402,7 +1402,6 @@ return {
     ["Training Moves"] = "https://raw.githubusercontent.com/Rootleak/Animations/main/Training%20Moves%2Elua",
     ["Transylvania Groove"] = "https://raw.githubusercontent.com/Rootleak/Animations/main/Transylvania%20Groove%2Elua",
     ["Traveling In Time"] = "https://raw.githubusercontent.com/Rootleak/Animations/main/Traveling%20In%20Time%2Elua",
-    ["Travis Event"] = "https://raw.githubusercontent.com/Rootleak/Animations/main/Travis%20Event.lua",
     ["Travis Stargrab"] = "https://raw.githubusercontent.com/Rootleak/Animations/main/Travis%20Stargrab%2Elua",
     ["Treat Yourself"] = "https://raw.githubusercontent.com/Rootleak/Animations/main/Treat%20Yourself%2Elua",
     ["Trinity's Kick"] = "https://raw.githubusercontent.com/Rootleak/Animations/main/Trinity%27s%20Kick%2Elua",
@@ -1580,6 +1579,6 @@ return {
     ["Anim2"] = "https://raw.githubusercontent.com/Rootleak/Animations/refs/heads/main/anim2.lua",
     ["Flip"] = "https://raw.githubusercontent.com/Rootleak/Animations/refs/heads/main/flip.lua",
     ["Lil nas X panini"] = "https://raw.githubusercontent.com/Rootleak/Animations/refs/heads/main/Lil%20nas%20x%20panini.lua",
-    ["Travis R15"] = "https://raw.githubusercontent.com/Rootleak/Animations/refs/heads/main/Travis%20r15.lua",
+    ["Travis Event"] = "https://raw.githubusercontent.com/Rootleak/Animations/refs/heads/main/Travis%20r15.lua",
 
 }
